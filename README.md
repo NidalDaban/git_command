@@ -30,7 +30,7 @@ git commit -m "masege"
 // save changes in your device localy
 
 git status
-// should appear (all up to date)
+// should appear (nothing to commit)
 
 git push oragin main 
 // push your change to githup
