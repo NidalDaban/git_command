@@ -13,11 +13,27 @@ cd fileName
 each time i shoude type it 
 
 ```
-code .
-git status
+
+code . 
+// open vscode
+ 
+// start code
+// after finsh and you want to push code in github
+
+git status 
+// in order to check if become edit or not
+
+
+
 git add .
-commit -m "masege"
+git commit -m "masege"
+// save changes in your device localy
+
 git status
-git push oragin main  
+// should appear (all up to date)
+
+git push oragin main 
+// push your change to githup
 ```
+
 
